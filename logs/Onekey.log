@@ -1,0 +1,291 @@
+[2025-05-04 15:28:01] | [Onekey:INFO] | [main.init:57] - Guikey | Versão: 3.0
+[2025-05-04 15:28:01] | [Onekey:WARNING] | [main.init:58] - Conteudo modificado |https://discord.gg/6VTVKpUzuc
+[2025-05-04 15:28:05] | [Onekey:INFO] | [main.get_latest_repo_info:173] - Repositório selecionado: 'SteamAutoCracks/ManifestHub'
+[2025-05-04 15:28:06] | [Onekey:INFO] | [main.main_flow:552] - Reinicie o Steam para aplicar as alterações.
+[2025-05-04 15:44:37] | [Onekey:INFO] | [main.init:57] - Guikey | Versão: 3.0
+[2025-05-04 15:44:37] | [Onekey:WARNING] | [main.init:58] - Conteudo modificado |https://discord.gg/6VTVKpUzuc
+[2025-05-04 15:44:38] | [Onekey:ERROR] | [main.main_flow:524] - Entrada de App ID inválida: ''. Por favor, insira um número válido.
+[2025-05-04 15:44:45] | [Onekey:INFO] | [main.init:57] - Guikey | Versão: 3.0
+[2025-05-04 15:44:45] | [Onekey:WARNING] | [main.init:58] - Conteudo modificado |https://discord.gg/6VTVKpUzuc
+[2025-05-04 15:44:48] | [Onekey:INFO] | [main.get_latest_repo_info:173] - Repositório selecionado: 'SteamAutoCracks/ManifestHub'
+[2025-05-04 15:44:52] | [Onekey:INFO] | [main.main_flow:552] - Reinicie o Steam para aplicar as alterações.
+[2025-05-04 15:48:35] | [Onekey:INFO] | [main.init:57] - Guikey | Versão: 3.0
+[2025-05-04 15:48:35] | [Onekey:WARNING] | [main.init:58] - Conteudo modificado |https://discord.gg/6VTVKpUzuc
+[2025-05-04 15:48:38] | [Onekey:INFO] | [main.get_latest_repo_info:173] - Repositório selecionado: 'SteamAutoCracks/ManifestHub'
+[2025-05-04 15:48:39] | [Onekey:INFO] | [main.main_flow:552] - Reinicie o Steam para aplicar as alterações.
+[2025-05-04 15:50:28] | [Onekey:INFO] | [main.init:57] - Guikey | Versão: 3.0
+[2025-05-04 15:50:28] | [Onekey:WARNING] | [main.init:58] - Conteudo modificado |https://discord.gg/6VTVKpUzuc
+[2025-05-04 15:50:31] | [Onekey:INFO] | [main.get_latest_repo_info:173] - Repositório selecionado: 'SteamAutoCracks/ManifestHub'
+[2025-05-04 15:50:33] | [Onekey:INFO] | [main.main_flow:552] - Reinicie o Steam para aplicar as alterações.
+[2025-05-04 15:53:17] | [Onekey:INFO] | [main.init:57] - Guikey | Versão: 3.0
+[2025-05-04 15:53:17] | [Onekey:WARNING] | [main.init:58] - Conteudo modificado |https://discord.gg/6VTVKpUzuc
+[2025-05-04 15:53:21] | [Onekey:ERROR] | [main.get_latest_repo_info:175] - Nenhum repositório válido encontrado para o App ID fornecido.
+[2025-05-04 15:53:21] | [Onekey:ERROR] | [main.main_flow:545] - Nenhum dado de depot (chaves de decriptação) foi obtido.
+[2025-05-04 15:53:52] | [Onekey:INFO] | [main.init:57] - Guikey | Versão: 3.0
+[2025-05-04 15:53:52] | [Onekey:WARNING] | [main.init:58] - Conteudo modificado |https://discord.gg/6VTVKpUzuc
+[2025-05-04 15:53:55] | [Onekey:ERROR] | [main.get_latest_repo_info:175] - Nenhum repositório válido encontrado para o App ID fornecido.
+[2025-05-04 15:53:55] | [Onekey:ERROR] | [main.main_flow:545] - Nenhum dado de depot (chaves de decriptação) foi obtido.
+[2025-05-04 15:54:12] | [Onekey:INFO] | [main.init:57] - Guikey | Versão: 3.0
+[2025-05-04 15:54:12] | [Onekey:WARNING] | [main.init:58] - Conteudo modificado |https://discord.gg/6VTVKpUzuc
+[2025-05-04 15:54:15] | [Onekey:INFO] | [main.get_latest_repo_info:173] - Repositório selecionado: 'SteamAutoCracks/ManifestHub'
+[2025-05-04 15:54:17] | [Onekey:INFO] | [main.main_flow:552] - Reinicie o Steam para aplicar as alterações.
+[2025-05-04 15:54:48] | [Onekey:INFO] | [main.init:57] - Guikey | Versão: 3.0
+[2025-05-04 15:54:48] | [Onekey:WARNING] | [main.init:58] - Conteudo modificado |https://discord.gg/6VTVKpUzuc
+[2025-05-04 15:54:51] | [Onekey:ERROR] | [main.get_latest_repo_info:175] - Nenhum repositório válido encontrado para o App ID fornecido.
+[2025-05-04 15:54:51] | [Onekey:ERROR] | [main.main_flow:545] - Nenhum dado de depot (chaves de decriptação) foi obtido.
+[2025-05-04 15:55:15] | [Onekey:INFO] | [main.init:57] - Guikey | Versão: 3.0
+[2025-05-04 15:55:15] | [Onekey:WARNING] | [main.init:58] - Conteudo modificado |https://discord.gg/6VTVKpUzuc
+[2025-05-04 15:55:17] | [Onekey:ERROR] | [main.get_latest_repo_info:175] - Nenhum repositório válido encontrado para o App ID fornecido.
+[2025-05-04 15:55:17] | [Onekey:ERROR] | [main.main_flow:545] - Nenhum dado de depot (chaves de decriptação) foi obtido.
+[2025-05-04 16:23:19] | [Onekey:INFO] | [main.init:57] - Guikey | Versão: 3.0
+[2025-05-04 16:23:19] | [Onekey:WARNING] | [main.init:58] - Conteudo modificado |https://discord.gg/6VTVKpUzuc
+[2025-05-04 16:23:23] | [Onekey:INFO] | [main.get_latest_repo_info:173] - Repositório selecionado: 'SteamAutoCracks/ManifestHub'
+[2025-05-04 16:23:23] | [Onekey:INFO] | [main.main_flow:552] - Reinicie o Steam para aplicar as alterações.
+[2025-05-04 17:24:02] | [Onekey:INFO] | [main.init:57] - Guikey | Versão: 3.0
+[2025-05-04 17:24:02] | [Onekey:WARNING] | [main.init:58] - Conteudo modificado |https://discord.gg/6VTVKpUzuc
+[2025-05-04 17:24:06] | [Onekey:INFO] | [main.get_latest_repo_info:173] - Repositório selecionado: 'SteamAutoCracks/ManifestHub'
+[2025-05-04 17:24:07] | [Onekey:INFO] | [main.main_flow:552] - Reinicie o Steam para aplicar as alterações.
+[2025-05-04 17:57:27] | [Onekey:INFO] | [main.init:57] - Guikey | Versão: 3.0
+[2025-05-04 17:57:27] | [Onekey:WARNING] | [main.init:58] - Conteudo modificado |https://discord.gg/6VTVKpUzuc
+[2025-05-04 17:57:31] | [Onekey:INFO] | [main.get_latest_repo_info:173] - Repositório selecionado: 'SteamAutoCracks/ManifestHub'
+[2025-05-04 17:57:32] | [Onekey:INFO] | [main.main_flow:552] - Reinicie o Steam para aplicar as alterações.
+[2025-05-04 18:01:42] | [Onekey:INFO] | [main.init:57] - Guikey | Versão: 3.0
+[2025-05-04 18:01:42] | [Onekey:WARNING] | [main.init:58] - Conteudo modificado |https://discord.gg/6VTVKpUzuc
+[2025-05-04 18:01:48] | [Onekey:INFO] | [main.<module>:585] - Programa encerrado.
+[2025-05-04 18:01:52] | [Onekey:INFO] | [main.init:57] - Guikey | Versão: 3.0
+[2025-05-04 18:01:52] | [Onekey:WARNING] | [main.init:58] - Conteudo modificado |https://discord.gg/6VTVKpUzuc
+[2025-05-04 18:01:55] | [Onekey:INFO] | [main.get_latest_repo_info:173] - Repositório selecionado: 'SteamAutoCracks/ManifestHub'
+[2025-05-04 18:01:59] | [Onekey:INFO] | [main.main_flow:552] - Reinicie o Steam para aplicar as alterações.
+[2025-05-04 18:02:34] | [Onekey:INFO] | [main.init:57] - Guikey | Versão: 3.0
+[2025-05-04 18:02:34] | [Onekey:WARNING] | [main.init:58] - Conteudo modificado |https://discord.gg/6VTVKpUzuc
+[2025-05-04 18:02:38] | [Onekey:INFO] | [main.get_latest_repo_info:173] - Repositório selecionado: 'SteamAutoCracks/ManifestHub'
+[2025-05-04 18:02:41] | [Onekey:INFO] | [main.main_flow:552] - Reinicie o Steam para aplicar as alterações.
+[2025-05-04 18:06:43] | [Onekey:INFO] | [main.init:57] - Guikey | Versão: 3.0
+[2025-05-04 18:06:43] | [Onekey:WARNING] | [main.init:58] - Conteudo modificado |https://discord.gg/6VTVKpUzuc
+[2025-05-04 18:06:46] | [Onekey:INFO] | [main.get_latest_repo_info:173] - Repositório selecionado: 'SteamAutoCracks/ManifestHub'
+[2025-05-04 18:06:54] | [Onekey:INFO] | [main.main_flow:552] - Reinicie o Steam para aplicar as alterações.
+[2025-05-04 18:48:55] | [Onekey:INFO] | [main.init:57] - Guikey | Versão: 3.0
+[2025-05-04 18:48:55] | [Onekey:WARNING] | [main.init:58] - Conteudo modificado |https://discord.gg/6VTVKpUzuc
+[2025-05-04 18:48:58] | [Onekey:INFO] | [main.get_latest_repo_info:173] - Repositório selecionado: 'SteamAutoCracks/ManifestHub'
+[2025-05-04 18:48:59] | [Onekey:INFO] | [main.main_flow:552] - Reinicie o Steam para aplicar as alterações.
+[2025-05-04 18:49:36] | [Onekey:INFO] | [main.init:57] - Guikey | Versão: 3.0
+[2025-05-04 18:49:36] | [Onekey:WARNING] | [main.init:58] - Conteudo modificado |https://discord.gg/6VTVKpUzuc
+[2025-05-04 18:49:40] | [Onekey:INFO] | [main.get_latest_repo_info:173] - Repositório selecionado: 'SteamAutoCracks/ManifestHub'
+[2025-05-04 18:49:40] | [Onekey:INFO] | [main.main_flow:552] - Reinicie o Steam para aplicar as alterações.
+[2025-05-04 18:50:04] | [Onekey:INFO] | [main.init:57] - Guikey | Versão: 3.0
+[2025-05-04 18:50:04] | [Onekey:WARNING] | [main.init:58] - Conteudo modificado |https://discord.gg/6VTVKpUzuc
+[2025-05-04 18:50:06] | [Onekey:INFO] | [main.get_latest_repo_info:173] - Repositório selecionado: 'SteamAutoCracks/ManifestHub'
+[2025-05-04 18:50:07] | [Onekey:INFO] | [main.main_flow:552] - Reinicie o Steam para aplicar as alterações.
+[2025-05-04 18:50:57] | [Onekey:INFO] | [main.init:57] - Guikey | Versão: 3.0
+[2025-05-04 18:50:57] | [Onekey:WARNING] | [main.init:58] - Conteudo modificado |https://discord.gg/6VTVKpUzuc
+[2025-05-04 18:51:01] | [Onekey:INFO] | [main.get_latest_repo_info:173] - Repositório selecionado: 'SteamAutoCracks/ManifestHub'
+[2025-05-04 18:51:02] | [Onekey:INFO] | [main.main_flow:552] - Reinicie o Steam para aplicar as alterações.
+[2025-05-04 18:53:38] | [Onekey:INFO] | [main.init:57] - Guikey | Versão: 3.0
+[2025-05-04 18:53:38] | [Onekey:WARNING] | [main.init:58] - Conteudo modificado |https://discord.gg/6VTVKpUzuc
+[2025-05-04 18:53:41] | [Onekey:INFO] | [main.get_latest_repo_info:173] - Repositório selecionado: 'SteamAutoCracks/ManifestHub'
+[2025-05-04 18:53:41] | [Onekey:INFO] | [main.main_flow:552] - Reinicie o Steam para aplicar as alterações.
+[2025-05-04 18:54:37] | [Onekey:INFO] | [main.init:57] - Guikey | Versão: 3.0
+[2025-05-04 18:54:37] | [Onekey:WARNING] | [main.init:58] - Conteudo modificado |https://discord.gg/6VTVKpUzuc
+[2025-05-04 18:54:41] | [Onekey:INFO] | [main.get_latest_repo_info:173] - Repositório selecionado: 'ikun0014/ManifestHub'
+[2025-05-04 18:54:41] | [Onekey:INFO] | [main.main_flow:552] - Reinicie o Steam para aplicar as alterações.
+[2025-05-04 18:54:52] | [Onekey:INFO] | [main.init:57] - Guikey | Versão: 3.0
+[2025-05-04 18:54:52] | [Onekey:WARNING] | [main.init:58] - Conteudo modificado |https://discord.gg/6VTVKpUzuc
+[2025-05-04 18:54:55] | [Onekey:INFO] | [main.get_latest_repo_info:173] - Repositório selecionado: 'SteamAutoCracks/ManifestHub'
+[2025-05-04 18:54:56] | [Onekey:INFO] | [main.main_flow:552] - Reinicie o Steam para aplicar as alterações.
+[2025-05-04 18:55:44] | [Onekey:INFO] | [main.init:57] - Guikey | Versão: 3.0
+[2025-05-04 18:55:44] | [Onekey:WARNING] | [main.init:58] - Conteudo modificado |https://discord.gg/6VTVKpUzuc
+[2025-05-04 18:55:48] | [Onekey:INFO] | [main.get_latest_repo_info:173] - Repositório selecionado: 'SteamAutoCracks/ManifestHub'
+[2025-05-04 18:55:49] | [Onekey:INFO] | [main.main_flow:552] - Reinicie o Steam para aplicar as alterações.
+[2025-05-04 18:56:19] | [Onekey:INFO] | [main.init:57] - Guikey | Versão: 3.0
+[2025-05-04 18:56:19] | [Onekey:WARNING] | [main.init:58] - Conteudo modificado |https://discord.gg/6VTVKpUzuc
+[2025-05-04 18:56:22] | [Onekey:INFO] | [main.get_latest_repo_info:173] - Repositório selecionado: 'SteamAutoCracks/ManifestHub'
+[2025-05-04 18:56:23] | [Onekey:INFO] | [main.main_flow:552] - Reinicie o Steam para aplicar as alterações.
+[2025-05-04 18:56:59] | [Onekey:INFO] | [main.init:57] - Guikey | Versão: 3.0
+[2025-05-04 18:56:59] | [Onekey:WARNING] | [main.init:58] - Conteudo modificado |https://discord.gg/6VTVKpUzuc
+[2025-05-04 18:57:02] | [Onekey:INFO] | [main.get_latest_repo_info:173] - Repositório selecionado: 'SteamAutoCracks/ManifestHub'
+[2025-05-04 18:57:03] | [Onekey:INFO] | [main.main_flow:552] - Reinicie o Steam para aplicar as alterações.
+[2025-05-04 18:57:40] | [Onekey:INFO] | [main.init:57] - Guikey | Versão: 3.0
+[2025-05-04 18:57:40] | [Onekey:WARNING] | [main.init:58] - Conteudo modificado |https://discord.gg/6VTVKpUzuc
+[2025-05-04 18:57:42] | [Onekey:INFO] | [main.get_latest_repo_info:173] - Repositório selecionado: 'SteamAutoCracks/ManifestHub'
+[2025-05-04 18:57:44] | [Onekey:INFO] | [main.main_flow:552] - Reinicie o Steam para aplicar as alterações.
+[2025-05-04 19:05:17] | [Onekey:INFO] | [main.init:57] - Guikey | Versão: 3.0
+[2025-05-04 19:05:17] | [Onekey:WARNING] | [main.init:58] - Conteudo modificado |https://discord.gg/6VTVKpUzuc
+[2025-05-04 19:05:20] | [Onekey:WARNING] | [main.check_github_api_rate_limit:116] - Limite de requisições da API do GitHub baixo (3). Será redefinido em 2025-05-04 19:48:58. Considere configurar um Token de Acesso Pessoal.
+[2025-05-04 19:05:20] | [Onekey:INFO] | [main.get_latest_repo_info:173] - Repositório selecionado: 'SteamAutoCracks/ManifestHub'
+[2025-05-04 19:05:20] | [Onekey:ERROR] | [main.handle_depot_files:204] - Erro HTTP ao buscar detalhes da branch: 403
+[2025-05-04 19:05:20] | [Onekey:ERROR] | [main.main_flow:545] - Nenhum dado de depot (chaves de decriptação) foi obtido.
+[2025-05-04 19:06:11] | [Onekey:INFO] | [main.init:57] - Guikey | Versão: 3.0
+[2025-05-04 19:06:11] | [Onekey:WARNING] | [main.init:58] - Conteudo modificado |https://discord.gg/6VTVKpUzuc
+[2025-05-04 19:06:21] | [Onekey:WARNING] | [main.check_github_api_rate_limit:116] - Limite de requisições da API do GitHub baixo (0). Será redefinido em 2025-05-04 19:48:58. Considere configurar um Token de Acesso Pessoal.
+[2025-05-04 19:06:21] | [Onekey:ERROR] | [main.get_latest_repo_info:175] - Nenhum repositório válido encontrado para o App ID fornecido.
+[2025-05-04 19:06:21] | [Onekey:ERROR] | [main.main_flow:545] - Nenhum dado de depot (chaves de decriptação) foi obtido.
+[2025-05-04 21:26:31] | [Onekey:INFO] | [main.init:57] - Guikey | Versão: 3.0
+[2025-05-04 21:26:31] | [Onekey:WARNING] | [main.init:58] - Conteudo modificado |https://discord.gg/6VTVKpUzuc
+[2025-05-04 21:26:36] | [Onekey:INFO] | [main.get_latest_repo_info:173] - Repositório selecionado: 'Auiowu/ManifestAutoUpdate'
+[2025-05-04 21:26:57] | [Onekey:INFO] | [main.main_flow:552] - Reinicie o Steam para aplicar as alterações.
+[2025-05-04 22:58:17] | [Onekey:INFO] | [main.init:57] - Guikey | Versão: 3.0
+[2025-05-04 22:58:17] | [Onekey:WARNING] | [main.init:58] - Conteudo modificado |https://discord.gg/6VTVKpUzuc
+[2025-05-04 22:58:21] | [Onekey:INFO] | [main.get_latest_repo_info:173] - Repositório selecionado: 'SteamAutoCracks/ManifestHub'
+[2025-05-04 22:58:21] | [Onekey:INFO] | [main.main_flow:552] - Reinicie o Steam para aplicar as alterações.
+[2025-05-04 22:58:41] | [Onekey:INFO] | [main.init:57] - Guikey | Versão: 3.0
+[2025-05-04 22:58:41] | [Onekey:WARNING] | [main.init:58] - Conteudo modificado |https://discord.gg/6VTVKpUzuc
+[2025-05-04 22:58:43] | [Onekey:INFO] | [main.get_latest_repo_info:173] - Repositório selecionado: 'SteamAutoCracks/ManifestHub'
+[2025-05-04 22:58:44] | [Onekey:INFO] | [main.main_flow:552] - Reinicie o Steam para aplicar as alterações.
+[2025-05-04 22:59:31] | [Onekey:INFO] | [main.init:57] - Guikey | Versão: 3.0
+[2025-05-04 22:59:31] | [Onekey:WARNING] | [main.init:58] - Conteudo modificado |https://discord.gg/6VTVKpUzuc
+[2025-05-04 22:59:34] | [Onekey:INFO] | [main.get_latest_repo_info:173] - Repositório selecionado: 'ikun0014/ManifestHub'
+[2025-05-04 22:59:35] | [Onekey:INFO] | [main.main_flow:552] - Reinicie o Steam para aplicar as alterações.
+[2025-05-04 23:00:45] | [Onekey:INFO] | [main.init:57] - Guikey | Versão: 3.0
+[2025-05-04 23:00:45] | [Onekey:WARNING] | [main.init:58] - Conteudo modificado |https://discord.gg/6VTVKpUzuc
+[2025-05-04 23:00:49] | [Onekey:INFO] | [main.get_latest_repo_info:173] - Repositório selecionado: 'SteamAutoCracks/ManifestHub'
+[2025-05-04 23:01:11] | [Onekey:INFO] | [main.main_flow:552] - Reinicie o Steam para aplicar as alterações.
+[2025-05-04 23:01:28] | [Onekey:INFO] | [main.init:57] - Guikey | Versão: 3.0
+[2025-05-04 23:01:28] | [Onekey:WARNING] | [main.init:58] - Conteudo modificado |https://discord.gg/6VTVKpUzuc
+[2025-05-04 23:01:31] | [Onekey:INFO] | [main.get_latest_repo_info:173] - Repositório selecionado: 'SteamAutoCracks/ManifestHub'
+[2025-05-04 23:01:31] | [Onekey:INFO] | [main.main_flow:552] - Reinicie o Steam para aplicar as alterações.
+[2025-05-04 23:03:14] | [Onekey:INFO] | [main.init:57] - Guikey | Versão: 3.0
+[2025-05-04 23:03:14] | [Onekey:WARNING] | [main.init:58] - Conteudo modificado |https://discord.gg/6VTVKpUzuc
+[2025-05-04 23:03:17] | [Onekey:INFO] | [main.get_latest_repo_info:173] - Repositório selecionado: 'SteamAutoCracks/ManifestHub'
+[2025-05-04 23:03:18] | [Onekey:INFO] | [main.main_flow:552] - Reinicie o Steam para aplicar as alterações.
+[2025-05-04 23:59:19] | [Onekey:INFO] | [main.init:57] - Guikey | Versão: 3.0
+[2025-05-04 23:59:19] | [Onekey:WARNING] | [main.init:58] - Conteudo modificado |https://discord.gg/6VTVKpUzuc
+[2025-05-04 23:59:24] | [Onekey:INFO] | [main.get_latest_repo_info:173] - Repositório selecionado: 'SteamAutoCracks/ManifestHub'
+[2025-05-04 23:59:25] | [Onekey:INFO] | [main.main_flow:552] - Reinicie o Steam para aplicar as alterações.
+[2025-05-05 00:00:15] | [Onekey:INFO] | [main.init:57] - Guikey | Versão: 3.0
+[2025-05-05 00:00:15] | [Onekey:WARNING] | [main.init:58] - Conteudo modificado |https://discord.gg/6VTVKpUzuc
+[2025-05-05 00:00:19] | [Onekey:INFO] | [main.get_latest_repo_info:173] - Repositório selecionado: 'SteamAutoCracks/ManifestHub'
+[2025-05-05 00:00:20] | [Onekey:INFO] | [main.main_flow:552] - Reinicie o Steam para aplicar as alterações.
+[2025-05-05 00:02:00] | [Onekey:INFO] | [main.init:57] - Guikey | Versão: 3.0
+[2025-05-05 00:02:00] | [Onekey:WARNING] | [main.init:58] - Conteudo modificado |https://discord.gg/6VTVKpUzuc
+[2025-05-05 00:02:03] | [Onekey:INFO] | [main.get_latest_repo_info:173] - Repositório selecionado: 'SteamAutoCracks/ManifestHub'
+[2025-05-05 00:02:03] | [Onekey:INFO] | [main.main_flow:552] - Reinicie o Steam para aplicar as alterações.
+[2025-05-05 00:02:17] | [Onekey:INFO] | [main.init:57] - Guikey | Versão: 3.0
+[2025-05-05 00:02:17] | [Onekey:WARNING] | [main.init:58] - Conteudo modificado |https://discord.gg/6VTVKpUzuc
+[2025-05-05 00:02:20] | [Onekey:INFO] | [main.get_latest_repo_info:173] - Repositório selecionado: 'SteamAutoCracks/ManifestHub'
+[2025-05-05 00:02:20] | [Onekey:INFO] | [main.main_flow:552] - Reinicie o Steam para aplicar as alterações.
+[2025-05-05 00:02:41] | [Onekey:INFO] | [main.init:57] - Guikey | Versão: 3.0
+[2025-05-05 00:02:41] | [Onekey:WARNING] | [main.init:58] - Conteudo modificado |https://discord.gg/6VTVKpUzuc
+[2025-05-05 00:02:43] | [Onekey:INFO] | [main.get_latest_repo_info:173] - Repositório selecionado: 'SteamAutoCracks/ManifestHub'
+[2025-05-05 00:02:44] | [Onekey:INFO] | [main.main_flow:552] - Reinicie o Steam para aplicar as alterações.
+[2025-05-05 00:02:53] | [Onekey:INFO] | [main.init:57] - Guikey | Versão: 3.0
+[2025-05-05 00:02:53] | [Onekey:WARNING] | [main.init:58] - Conteudo modificado |https://discord.gg/6VTVKpUzuc
+[2025-05-05 00:02:56] | [Onekey:INFO] | [main.get_latest_repo_info:173] - Repositório selecionado: 'SteamAutoCracks/ManifestHub'
+[2025-05-05 00:02:58] | [Onekey:INFO] | [main.main_flow:552] - Reinicie o Steam para aplicar as alterações.
+[2025-05-05 00:03:13] | [Onekey:INFO] | [main.init:57] - Guikey | Versão: 3.0
+[2025-05-05 00:03:13] | [Onekey:WARNING] | [main.init:58] - Conteudo modificado |https://discord.gg/6VTVKpUzuc
+[2025-05-05 00:03:16] | [Onekey:INFO] | [main.get_latest_repo_info:173] - Repositório selecionado: 'SteamAutoCracks/ManifestHub'
+[2025-05-05 00:03:17] | [Onekey:INFO] | [main.main_flow:552] - Reinicie o Steam para aplicar as alterações.
+[2025-05-05 00:18:08] | [Onekey:INFO] | [main.init:57] - Guikey | Versão: 3.0
+[2025-05-05 00:18:08] | [Onekey:WARNING] | [main.init:58] - Conteudo modificado |https://discord.gg/6VTVKpUzuc
+[2025-05-05 00:18:11] | [Onekey:INFO] | [main.get_latest_repo_info:173] - Repositório selecionado: 'SteamAutoCracks/ManifestHub'
+[2025-05-05 00:18:12] | [Onekey:INFO] | [main.main_flow:552] - Reinicie o Steam para aplicar as alterações.
+[2025-05-05 00:24:57] | [Onekey:INFO] | [main.init:57] - Guikey | Versão: 3.0
+[2025-05-05 00:24:57] | [Onekey:WARNING] | [main.init:58] - Conteudo modificado |https://discord.gg/6VTVKpUzuc
+[2025-05-05 00:25:00] | [Onekey:INFO] | [main.get_latest_repo_info:173] - Repositório selecionado: 'SteamAutoCracks/ManifestHub'
+[2025-05-05 00:25:01] | [Onekey:INFO] | [main.main_flow:552] - Reinicie o Steam para aplicar as alterações.
+[2025-05-05 00:25:06] | [Onekey:INFO] | [main.init:57] - Guikey | Versão: 3.0
+[2025-05-05 00:25:06] | [Onekey:WARNING] | [main.init:58] - Conteudo modificado |https://discord.gg/6VTVKpUzuc
+[2025-05-05 00:25:09] | [Onekey:INFO] | [main.get_latest_repo_info:173] - Repositório selecionado: 'SteamAutoCracks/ManifestHub'
+[2025-05-05 00:25:12] | [Onekey:INFO] | [main.main_flow:552] - Reinicie o Steam para aplicar as alterações.
+[2025-05-05 00:25:18] | [Onekey:INFO] | [main.init:57] - Guikey | Versão: 3.0
+[2025-05-05 00:25:18] | [Onekey:WARNING] | [main.init:58] - Conteudo modificado |https://discord.gg/6VTVKpUzuc
+[2025-05-05 00:25:20] | [Onekey:WARNING] | [main.check_github_api_rate_limit:116] - Limite de requisições da API do GitHub baixo (5). Será redefinido em 2025-05-05 00:42:33. Considere configurar um Token de Acesso Pessoal.
+[2025-05-05 00:25:21] | [Onekey:INFO] | [main.get_latest_repo_info:173] - Repositório selecionado: 'SteamAutoCracks/ManifestHub'
+[2025-05-05 00:25:26] | [Onekey:INFO] | [main.main_flow:552] - Reinicie o Steam para aplicar as alterações.
+[2025-05-05 00:25:31] | [Onekey:INFO] | [main.init:57] - Guikey | Versão: 3.0
+[2025-05-05 00:25:31] | [Onekey:WARNING] | [main.init:58] - Conteudo modificado |https://discord.gg/6VTVKpUzuc
+[2025-05-05 00:25:33] | [Onekey:WARNING] | [main.check_github_api_rate_limit:116] - Limite de requisições da API do GitHub baixo (0). Será redefinido em 2025-05-05 00:42:33. Considere configurar um Token de Acesso Pessoal.
+[2025-05-05 00:25:33] | [Onekey:ERROR] | [main.get_latest_repo_info:175] - Nenhum repositório válido encontrado para o App ID fornecido.
+[2025-05-05 00:25:33] | [Onekey:ERROR] | [main.main_flow:545] - Nenhum dado de depot (chaves de decriptação) foi obtido.
+[2025-05-05 00:27:34] | [Onekey:INFO] | [main.init:57] - Guikey | Versão: 3.0
+[2025-05-05 00:27:34] | [Onekey:WARNING] | [main.init:58] - Conteudo modificado |https://discord.gg/6VTVKpUzuc
+[2025-05-05 00:27:46] | [Onekey:WARNING] | [main.check_github_api_rate_limit:116] - Limite de requisições da API do GitHub baixo (0). Será redefinido em 2025-05-05 00:42:33. Considere configurar um Token de Acesso Pessoal.
+[2025-05-05 00:27:46] | [Onekey:ERROR] | [main.get_latest_repo_info:175] - Nenhum repositório válido encontrado para o App ID fornecido.
+[2025-05-05 00:27:46] | [Onekey:ERROR] | [main.main_flow:545] - Nenhum dado de depot (chaves de decriptação) foi obtido.
+[2025-05-05 01:06:45] | [Onekey:INFO] | [main.init:57] - Guikey | Versão: 3.0
+[2025-05-05 01:06:45] | [Onekey:WARNING] | [main.init:58] - Conteudo modificado |https://discord.gg/6VTVKpUzuc
+[2025-05-05 01:06:48] | [Onekey:INFO] | [main.get_latest_repo_info:173] - Repositório selecionado: 'SteamAutoCracks/ManifestHub'
+[2025-05-05 01:06:49] | [Onekey:INFO] | [main.main_flow:552] - Reinicie o Steam para aplicar as alterações.
+[2025-05-05 01:06:58] | [Onekey:INFO] | [main.init:57] - Guikey | Versão: 3.0
+[2025-05-05 01:06:58] | [Onekey:WARNING] | [main.init:58] - Conteudo modificado |https://discord.gg/6VTVKpUzuc
+[2025-05-05 01:07:02] | [Onekey:INFO] | [main.get_latest_repo_info:173] - Repositório selecionado: 'SteamAutoCracks/ManifestHub'
+[2025-05-05 01:07:03] | [Onekey:INFO] | [main.main_flow:552] - Reinicie o Steam para aplicar as alterações.
+[2025-05-05 01:07:10] | [Onekey:INFO] | [main.init:57] - Guikey | Versão: 3.0
+[2025-05-05 01:07:10] | [Onekey:WARNING] | [main.init:58] - Conteudo modificado |https://discord.gg/6VTVKpUzuc
+[2025-05-05 01:07:13] | [Onekey:INFO] | [main.get_latest_repo_info:173] - Repositório selecionado: 'ikun0014/ManifestHub'
+[2025-05-05 01:07:14] | [Onekey:INFO] | [main.main_flow:552] - Reinicie o Steam para aplicar as alterações.
+[2025-05-05 01:07:36] | [Onekey:INFO] | [main.init:57] - Guikey | Versão: 3.0
+[2025-05-05 01:07:36] | [Onekey:WARNING] | [main.init:58] - Conteudo modificado |https://discord.gg/6VTVKpUzuc
+[2025-05-05 01:07:39] | [Onekey:INFO] | [main.get_latest_repo_info:173] - Repositório selecionado: 'SteamAutoCracks/ManifestHub'
+[2025-05-05 01:07:39] | [Onekey:INFO] | [main.main_flow:552] - Reinicie o Steam para aplicar as alterações.
+[2025-05-05 01:08:51] | [Onekey:INFO] | [main.init:57] - Guikey | Versão: 3.0
+[2025-05-05 01:08:51] | [Onekey:WARNING] | [main.init:58] - Conteudo modificado |https://discord.gg/6VTVKpUzuc
+[2025-05-05 01:08:53] | [Onekey:ERROR] | [main.get_latest_repo_info:175] - Nenhum repositório válido encontrado para o App ID fornecido.
+[2025-05-05 01:08:53] | [Onekey:ERROR] | [main.main_flow:545] - Nenhum dado de depot (chaves de decriptação) foi obtido.
+[2025-05-05 01:09:09] | [Onekey:INFO] | [main.init:57] - Guikey | Versão: 3.0
+[2025-05-05 01:09:09] | [Onekey:WARNING] | [main.init:58] - Conteudo modificado |https://discord.gg/6VTVKpUzuc
+[2025-05-05 01:09:17] | [Onekey:INFO] | [main.get_latest_repo_info:173] - Repositório selecionado: 'SteamAutoCracks/ManifestHub'
+[2025-05-05 01:09:18] | [Onekey:INFO] | [main.main_flow:552] - Reinicie o Steam para aplicar as alterações.
+[2025-05-05 01:14:49] | [Onekey:INFO] | [main.init:57] - Guikey | Versão: 3.0
+[2025-05-05 01:14:49] | [Onekey:WARNING] | [main.init:58] - Conteudo modificado |https://discord.gg/6VTVKpUzuc
+[2025-05-05 01:14:52] | [Onekey:INFO] | [main.get_latest_repo_info:173] - Repositório selecionado: 'SteamAutoCracks/ManifestHub'
+[2025-05-05 01:14:52] | [Onekey:INFO] | [main.main_flow:552] - Reinicie o Steam para aplicar as alterações.
+[2025-05-05 14:28:34] | [Onekey:INFO] | [main.init:57] - Guikey | Versão: 3.0
+[2025-05-05 14:28:34] | [Onekey:WARNING] | [main.init:58] - Conteudo modificado |https://discord.gg/6VTVKpUzuc
+[2025-05-05 14:28:35] | [Onekey:ERROR] | [main.main_flow:524] - Entrada de App ID inválida: '237110]'. Por favor, insira um número válido.
+[2025-05-05 14:28:41] | [Onekey:INFO] | [main.init:57] - Guikey | Versão: 3.0
+[2025-05-05 14:28:41] | [Onekey:WARNING] | [main.init:58] - Conteudo modificado |https://discord.gg/6VTVKpUzuc
+[2025-05-05 14:28:51] | [Onekey:INFO] | [main.get_latest_repo_info:173] - Repositório selecionado: 'SteamAutoCracks/ManifestHub'
+[2025-05-05 14:28:52] | [Onekey:INFO] | [main.main_flow:552] - Reinicie o Steam para aplicar as alterações.
+[2025-05-05 14:30:01] | [Onekey:INFO] | [main.init:57] - Guikey | Versão: 3.0
+[2025-05-05 14:30:01] | [Onekey:WARNING] | [main.init:58] - Conteudo modificado |https://discord.gg/6VTVKpUzuc
+[2025-05-05 14:30:10] | [Onekey:INFO] | [main.get_latest_repo_info:173] - Repositório selecionado: 'SteamAutoCracks/ManifestHub'
+[2025-05-05 14:30:11] | [Onekey:INFO] | [main.main_flow:552] - Reinicie o Steam para aplicar as alterações.
+[2025-05-05 15:26:18] | [Onekey:INFO] | [main.init:57] - Guikey | Versão: 3.0
+[2025-05-05 15:26:18] | [Onekey:WARNING] | [main.init:58] - Conteudo modificado |https://discord.gg/6VTVKpUzuc
+[2025-05-05 15:26:22] | [Onekey:INFO] | [main.get_latest_repo_info:173] - Repositório selecionado: 'SteamAutoCracks/ManifestHub'
+[2025-05-05 15:26:23] | [Onekey:INFO] | [main.main_flow:552] - Reinicie o Steam para aplicar as alterações.
+[2025-05-05 15:54:06] | [Onekey:INFO] | [main.init:57] - Guikey | Versão: 3.0
+[2025-05-05 15:54:06] | [Onekey:WARNING] | [main.init:58] - Conteudo modificado |https://discord.gg/6VTVKpUzuc
+[2025-05-05 15:54:09] | [Onekey:ERROR] | [main.get_latest_repo_info:175] - Nenhum repositório válido encontrado para o App ID fornecido.
+[2025-05-05 15:54:09] | [Onekey:ERROR] | [main.main_flow:545] - Nenhum dado de depot (chaves de decriptação) foi obtido.
+[2025-05-05 16:10:19] | [Onekey:INFO] | [main.init:57] - Guikey | Versão: 3.0
+[2025-05-05 16:10:19] | [Onekey:WARNING] | [main.init:58] - Conteudo modificado |https://discord.gg/6VTVKpUzuc
+[2025-05-05 16:10:22] | [Onekey:INFO] | [main.get_latest_repo_info:173] - Repositório selecionado: 'SteamAutoCracks/ManifestHub'
+[2025-05-05 16:10:24] | [Onekey:INFO] | [main.main_flow:552] - Reinicie o Steam para aplicar as alterações.
+[2025-05-05 16:12:07] | [Onekey:INFO] | [main.init:57] - Guikey | Versão: 3.0
+[2025-05-05 16:12:07] | [Onekey:WARNING] | [main.init:58] - Conteudo modificado |https://discord.gg/6VTVKpUzuc
+[2025-05-05 16:12:10] | [Onekey:INFO] | [main.get_latest_repo_info:173] - Repositório selecionado: 'SteamAutoCracks/ManifestHub'
+[2025-05-05 16:12:11] | [Onekey:INFO] | [main.main_flow:552] - Reinicie o Steam para aplicar as alterações.
+[2025-05-05 16:12:45] | [Onekey:INFO] | [main.init:57] - Guikey | Versão: 3.0
+[2025-05-05 16:12:45] | [Onekey:WARNING] | [main.init:58] - Conteudo modificado |https://discord.gg/6VTVKpUzuc
+[2025-05-05 16:12:49] | [Onekey:INFO] | [main.get_latest_repo_info:173] - Repositório selecionado: 'SteamAutoCracks/ManifestHub'
+[2025-05-05 16:12:49] | [Onekey:INFO] | [main.main_flow:552] - Reinicie o Steam para aplicar as alterações.
+[2025-05-05 16:17:35] | [Onekey:INFO] | [main.init:57] - Guikey | Versão: 3.0
+[2025-05-05 16:17:35] | [Onekey:WARNING] | [main.init:58] - Conteudo modificado |https://discord.gg/6VTVKpUzuc
+[2025-05-05 16:17:38] | [Onekey:INFO] | [main.get_latest_repo_info:173] - Repositório selecionado: 'SteamAutoCracks/ManifestHub'
+[2025-05-05 16:17:39] | [Onekey:INFO] | [main.main_flow:552] - Reinicie o Steam para aplicar as alterações.
+[2025-05-05 16:17:59] | [Onekey:INFO] | [main.init:57] - Guikey | Versão: 3.0
+[2025-05-05 16:17:59] | [Onekey:WARNING] | [main.init:58] - Conteudo modificado |https://discord.gg/6VTVKpUzuc
+[2025-05-05 16:18:02] | [Onekey:INFO] | [main.get_latest_repo_info:173] - Repositório selecionado: 'SteamAutoCracks/ManifestHub'
+[2025-05-05 16:18:02] | [Onekey:INFO] | [main.main_flow:552] - Reinicie o Steam para aplicar as alterações.
+[2025-05-05 16:18:11] | [Onekey:INFO] | [main.init:57] - Guikey | Versão: 3.0
+[2025-05-05 16:18:11] | [Onekey:WARNING] | [main.init:58] - Conteudo modificado |https://discord.gg/6VTVKpUzuc
+[2025-05-05 16:18:13] | [Onekey:INFO] | [main.get_latest_repo_info:173] - Repositório selecionado: 'SteamAutoCracks/ManifestHub'
+[2025-05-05 16:18:15] | [Onekey:INFO] | [main.main_flow:552] - Reinicie o Steam para aplicar as alterações.
+[2025-05-06 17:59:25] | [Onekey:INFO] | [main.init:57] - Guikey | Versão: 3.0
+[2025-05-06 17:59:25] | [Onekey:WARNING] | [main.init:58] - Conteudo modificado |https://discord.gg/6VTVKpUzuc
+[2025-05-06 17:59:28] | [Onekey:INFO] | [main.get_latest_repo_info:173] - Repositório selecionado: 'SteamAutoCracks/ManifestHub'
+[2025-05-06 17:59:29] | [Onekey:INFO] | [main.main_flow:552] - Reinicie o Steam para aplicar as alterações.
+[2025-05-07 16:38:16] | [Onekey:INFO] | [main.init:57] - Guikey | Versão: 3.0
+[2025-05-07 16:38:16] | [Onekey:WARNING] | [main.init:58] - Conteudo modificado |https://discord.gg/6VTVKpUzuc
+[2025-05-07 16:38:21] | [Onekey:INFO] | [main.get_latest_repo_info:173] - Repositório selecionado: 'SteamAutoCracks/ManifestHub'
+[2025-05-07 16:38:22] | [Onekey:INFO] | [main.main_flow:552] - Reinicie o Steam para aplicar as alterações.
+[2025-05-10 02:36:19] | [Onekey:INFO] | [main.init:57] - Guikey | Versão: 3.0
+[2025-05-10 02:36:19] | [Onekey:WARNING] | [main.init:58] - Conteudo modificado |https://discord.gg/6VTVKpUzuc
+[2025-05-10 02:36:23] | [Onekey:INFO] | [main.get_latest_repo_info:173] - Repositório selecionado: 'SteamAutoCracks/ManifestHub'
+[2025-05-10 02:36:24] | [Onekey:INFO] | [main.main_flow:552] - Reinicie o Steam para aplicar as alterações.
+[2025-05-11 05:59:15] | [Onekey:INFO] | [main.init:57] - Guikey | Versão: 3.0
+[2025-05-11 05:59:15] | [Onekey:WARNING] | [main.init:58] - Conteudo modificado |https://discord.gg/6VTVKpUzuc
+[2025-05-11 05:59:20] | [Onekey:INFO] | [main.get_latest_repo_info:173] - Repositório selecionado: 'SteamAutoCracks/ManifestHub'
+[2025-05-11 05:59:21] | [Onekey:INFO] | [main.main_flow:552] - Reinicie o Steam para aplicar as alterações.
