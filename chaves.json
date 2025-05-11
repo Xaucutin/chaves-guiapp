@@ -1,0 +1,10 @@
+{
+  "CHAVE1234": {
+    "pc": "NOME-PC",
+    "expira": "2025-05-12"
+  },
+  "OUTRA-CHAVE5678": {
+    "pc": "OUTRO-PC",
+    "expira": "2025-06-01"
+  }
+}
